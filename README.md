@@ -36,11 +36,13 @@ Switch ON the main switch
 If the output is 1, then the led glows.
 ### 
 Program:
+```
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 Developed by: GURUMOORTHI R
 RegisterNumber:  212222230042
 */
+```
 ### HALF ADDER:
 ```
 module halfadd(a,b,sum,carry);
