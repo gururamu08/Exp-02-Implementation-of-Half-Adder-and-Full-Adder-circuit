@@ -91,7 +91,8 @@ endmodule
 
 ### FULL ADDER:
 
-![image](https://user-images.githubusercontent.com/118707009/231659756-f151f0ef-3c0a-46cc-9718-3acfe8c7cc59.png)
+![ADDERTABLE](https://user-images.githubusercontent.com/118707009/231669363-a105493a-8940-429b-8f4c-c25e663fe2d0.png)
+
 
 
 
